@@ -21,6 +21,7 @@
 <br>
 
 <details>
+  <summary>Some other facts about me-e-e</summary>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasedu10&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell&theme=github_light"  alt="vikas-bahuguna" /></p>
   <br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasedu10&show_icons=true&locale=en&theme=github_light" alt="vikas-bahuguna" /></p>
