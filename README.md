@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasedu10&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-bahuguna" /> </p>
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at <a href="https://www.accenture.com">**Accenture**</a>.
 - 🌱 I’m currently learning **DevOps**.
 - ❤️ Open Source Software and tools.
