@@ -19,3 +19,11 @@
 <a href="https://medium.com/@vikasedu10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vikasedu10" height="30" width="40" /></a>
 </p>
 <br>
+
+<details>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasedu10&show_icons=true&locale=en&layout=compact&langs_count=8&hide=php,powershell&theme=github_light"  alt="vikas-bahuguna" /></p>
+  <br>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasedu10&show_icons=true&locale=en&theme=github_light" alt="vikas-bahuguna" /></p>
+  <br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasedu10&theme=light&dates=DDDDDD&currStreakLabel=268EDD&sideLabels=268EDD" alt="vikas-bahuguna" /></p>
+</details>
