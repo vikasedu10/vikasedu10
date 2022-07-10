@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 25px;" src="./assets/images/main-copy.jpg" />
+  <img style="border-radius: 25px;" src="./assets/images/picture.png" />
 </p>
 <h2 align="left">About Me 💁🏻‍♂️</h2>
 
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available [here](https://vikasedu10.github.io/portfolio)
 - 🌨️ Interested in Cloud Native
 - 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1YZhmlw17wbK21ljNY0QmaJ8aX6wbcXan/view)
-
-<br>
 
 <h3 align="left">Let's connect and chat! Open to anything under the sun.</h3><br>
 <p align="left">
