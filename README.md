@@ -8,12 +8,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://www.accenture.com">**Accenture**</a>
-- 🌱 I’m currently learning **DevOps**
-- ❤️ Open Source Softwares and tools
-- 👨‍💻 All of my projects are available [here](https://vikasedu10.github.io/portfolio)
-- 🌨️ Interested in Cloud Native
-- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1YZhmlw17wbK21ljNY0QmaJ8aX6wbcXan/view)
+- 🔭 I’m currently working at <a href="https://www.accenture.com">**Accenture**</a>.
+- 🌱 I’m currently learning **DevOps**.
+- ❤️ Open Source Software and tools.
+- 👨‍💻 All of my projects are available [here](https://vikasedu10.github.io/portfolio).
+- 🌨️ Interested in Cloud Native.
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1YZhmlw17wbK21ljNY0QmaJ8aX6wbcXan/view).
 
 <h3 align="left">Let's connect and chat! Open to anything under the sun.</h3><br>
 <p align="left">
