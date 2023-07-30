@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasedu10&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-bahuguna" /> </p>
 
 - 🔭 I’m currently working at <a href="https://www.accenture.com">**Accenture**</a>.
-- 🌱 I’m currently learning **DevOps**.
+- 🌱 As **Full Stack** & **DevOps**.
 - ❤️ Open Source Software and tools.
 - 👨‍💻 All of my projects are available [here](https://vikasedu10.github.io/portfolio).
-- 🌨️ Interested in Cloud Native.
+- 🌨️ Interested & exploring Cloud Native.
 - 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1YZhmlw17wbK21ljNY0QmaJ8aX6wbcXan/view).
 
 <h3 align="left">Let's connect and chat! Open to anything under the sun.</h3><br>
